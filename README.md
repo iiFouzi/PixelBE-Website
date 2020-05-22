@@ -1,5 +1,4 @@
 # PixelBedrock's Website
 <hr/>
- Framework: Bulma
+ Framework: Bulma<br>
  Lead Developer: Isla<3
-<hr/>
