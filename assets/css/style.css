@@ -1,0 +1,112 @@
+/*
+<!--
+************
+*
+* VOTE: https://bit.ly/Vote4PixelBE
+* STORE: https://pixelbe.buycraft.net
+* TWITTER: https://twitter.com/PixelBedrock
+* DISCORD: https://discord.gg/xBWCDVX
+*
+************
+*
+* Framework(s): Bulma 0.8.0
+* Libraries: Font Awesome 5.4.1, Google Fonts x.x.x
+* @author: Isla<3 aka lichKing112#8803
+*
+************
+-->
+*/
+
+/* don't bother understand these stuffs */
+/* Import Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Lato|Poppins|Kaushan+Script");
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
+
+/* Resets the CSS */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+html {
+  font-family: 'Poppins', Lato, Tahoma, sans-serif;
+  width: 100%;
+  min-height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* title stuffs */
+.pixelbe {
+	font-family: 'Jost', sans-serif;
+	color: white;
+}
+h5 {
+	font-family: 'Jost', sans-serif;
+}
+
+.has-same-height .card {
+  height: 320px;
+  overflow: hidden;
+}
+
+#links {
+	background-color: aquamarine;
+}
+
+#minecraft {
+	font-family: 'Poppins', Lato, Tahoma, sans-serif;
+	color: white;
+}
+
+.logo {
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+.logo2 {
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.section-heading {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 6em;
+}
+
+/*
+<!--
+************
+*
+* VOTE: https://bit.ly/Vote4PixelBE
+* STORE: https://pixelbe.buycraft.net
+* TWITTER: https://twitter.com/PixelBedrock
+* DISCORD: https://discord.gg/xBWCDVX
+*
+************
+*
+* Framework(s): Bulma 0.8.0
+* Libraries: Font Awesome 5.4.1, Google Fonts x.x.x
+* @author: Isla<3 aka lichKing112#8803
+*
+************
+-->
+*/
