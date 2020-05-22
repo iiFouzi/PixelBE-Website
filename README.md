@@ -1,2 +1,5 @@
-# PixelBedrock-Website
-a rewrite of the previous one.
+# PixelBedrock's Website
+<hr/>
+ Framework: Bulma
+ Lead Developer: Isla<3
+<hr/>
